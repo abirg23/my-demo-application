@@ -1,1 +1,1 @@
-# my-document-application
+# my-demo-application
